@@ -1,0 +1,74 @@
+{
+  "comandos.py": {
+    "mtime": 1795300931.2188418,
+    "seen": 1795301108.3662512,
+    "ast_hash": "f035a93a7fcb93858c141731f675ab03",
+    "semantic_hash": ""
+  },
+  "indicador.py": {
+    "mtime": 1795302165.6205428,
+    "seen": 1795302232.1213167,
+    "ast_hash": "d7e57a559243989b17b3635c6ea52328",
+    "semantic_hash": ""
+  },
+  "juego.py": {
+    "mtime": 1795300946.35434,
+    "seen": 1795301108.3662605,
+    "ast_hash": "dd3f2e68c564dfee5cf26089fa650920",
+    "semantic_hash": ""
+  },
+  "laberinto.py": {
+    "mtime": 1795115957.831834,
+    "seen": 1795301108.3662622,
+    "ast_hash": "492ecb1ebb4a4462a81c7d81b4b71210",
+    "semantic_hash": ""
+  },
+  "main.py": {
+    "mtime": 1795302219.4648004,
+    "seen": 1795302232.1213243,
+    "ast_hash": "efbe78bec1bf9b4cd5bd1c9ea0028ebe",
+    "semantic_hash": ""
+  },
+  "reconocedor.py": {
+    "mtime": 1795302165.6201932,
+    "seen": 1795302232.1213255,
+    "ast_hash": "25be7ae4b0a0ffe640076ece7ead25b2",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1795302230.1086595,
+    "seen": 1795302232.1213267,
+    "ast_hash": "f667367118738d3eca0464ebd95ecb7a",
+    "semantic_hash": ""
+  },
+  "requirements.txt": {
+    "mtime": 1791213553.0,
+    "seen": 1795301108.366267,
+    "ast_hash": "da4a355c569a7626993facbccdfb620a",
+    "semantic_hash": ""
+  },
+  "assets/abajo.png": {
+    "mtime": 1791213553.0,
+    "seen": 1795301108.3662682,
+    "ast_hash": "f8bf424df21b8eb87f7dab84437787f0",
+    "semantic_hash": ""
+  },
+  "assets/arriba.png": {
+    "mtime": 1791213553.0,
+    "seen": 1795301108.366269,
+    "ast_hash": "ba62772d3fd9c215e6e6686f63dc0dfe",
+    "semantic_hash": ""
+  },
+  "assets/derecha.png": {
+    "mtime": 1791213553.0,
+    "seen": 1795301108.3662703,
+    "ast_hash": "0ca77eb502211826570b716c74fda8a7",
+    "semantic_hash": ""
+  },
+  "assets/izquierda.png": {
+    "mtime": 1791213553.0,
+    "seen": 1795301108.3662715,
+    "ast_hash": "7cc403e88e4424da534d5569b6db5c98",
+    "semantic_hash": ""
+  }
+}
